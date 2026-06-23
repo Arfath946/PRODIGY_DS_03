@@ -44,7 +44,7 @@ Through this project, I gained hands-on experience in:
 - Data Visualization
 
  Author
-Arfath
+Arfath P
 
  Internship
 Prodigy InfoTech - Data Science Internship
